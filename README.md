@@ -21,7 +21,7 @@ The **AI Connector for Revit** connects AI Desktop Apps (like Claude or Cursor) 
   (Write operations will be added in a later release.)
 
 - **Integration with Nonicatab**  
-  A new “AI Connector” button appears in the Nonicatab ribbon after installation, and selecting the ready-to-use toolbar or tool.
+  The “AI Connector” button appears in the Nonicatab toolbar after installation, and selecting the ready-to-use toolbar or tool.
 
 ---
 
