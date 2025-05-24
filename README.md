@@ -35,17 +35,43 @@ The **AI Connector for Revit** connects AI Desktop Apps (like Claude or Cursor) 
 
 ## Installation
 
-1. **Join the Waiting List**  
+1. **Join the list to receive the installer.**  
    [AI Connector for Revit](https://nonica.io/#AIConnector)
 
+2. **Download and install.**  
+   Follow the instructions and read the Terms and Conditions, remember you are granting access to AI models to your Revit model. Install Claude Desktop App. It is free and enough for a few tests, but you may need Claude pro for frequent use.
 
+3. **Run Revit.**  
+   Start Revit (2025 or 2026), and select a toolbar that includes the AI Connector for Revit.
+   
+4. **Run the AI Connector for Revit.**  
+   Go to Nonicatab toolbar in Revit and run the AI Connector. If Claude was opened, remember to restart Claude after opening the AI Connector the first time.
 
+5. **Start asking.**  
+   While the AI Connector for Revit is open and active, Claude will be able to access your Revit model using a set of tools.
 
-   # Create an INSTALL.md file with the installation instructions
-installation_md = """## Installation
+---
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your-org/ai-connector-revit.git
-   cd ai-connector-revit
+## Tools Overview
 
+A selection of the available micro-tools is listed below. Use Search and Tools in Claude to see full list.
+
+| Tool                                       | Description                                          |
+|--------------------------------------------|------------------------------------------------------|
+| `GetParameterValue(elementId, name)`       | Returns the specified parameter’s value              |
+| `GetFamilySizeInMB(familyName)`            | Returns the family file size in megabytes            |
+| `GetViewsOnSheet(sheetNumber)`             | Lists all views placed on a given sheet              |
+
+---
+
+## Acknowledgements
+
+lisiting01 and Jean Marc Couffin for the first Revit MCP.
+
+AI service providers for powering the backend chat interface
+
+---
+
+## License
+
+Copyright 2025 ©️ All rights reserved Nonica 
