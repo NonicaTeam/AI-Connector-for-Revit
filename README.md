@@ -56,11 +56,11 @@ The **AI Connector for Revit** connects AI Desktop Apps (like Claude or Cursor) 
 
 A selection of the available micro-tools is listed below. Use Search and Tools in Claude to see full list.
 
-| Tool                                       | Description                                          |
-|--------------------------------------------|------------------------------------------------------|
-| `GetParameterValue(elementId, name)`       | Returns the specified parameter’s value              |
-| `GetFamilySizeInMB(familyName)`            | Returns the family file size in megabytes            |
-| `GetViewsOnSheet(sheetNumber)`             | Lists all views placed on a given sheet              |
+| Tool                                                    | Description                                           |
+|---------------------------------------------------------|-------------------------------------------------------|
+| `get_parameters_from_elementid(list_elementId, name)`   | Returns all parameters for the specified element id.  |
+| `extract_size_in_MB_of_families(familyName)`            | Returns the family file sizes in megabytes.           |
+| `get_viewports_placed_on_sheets(sheetNumber)`           | Lists all views placed on a list of sheets.           |
 
 ---
 
