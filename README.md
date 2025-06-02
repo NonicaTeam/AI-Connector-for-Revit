@@ -18,7 +18,6 @@ The **AI Connector for Revit** connects AI Desktop Apps (like Claude or Cursor) 
 
 - **Read & Select Only (Phase 1)**  
   Model reading, inspection, and element selection  
-  (Write operations will be added in a later release.)
 
 - **Integration with Nonicatab**  
   The “AI Connector” button appears in the Nonicatab toolbar after installation, and selecting the ready-to-use toolbar or tool.
@@ -29,7 +28,7 @@ The **AI Connector for Revit** connects AI Desktop Apps (like Claude or Cursor) 
 
 - **Autodesk Revit** 2025 or 2026 
 - **Nonicatab** Revit plugin (Pro or Free). 
-- **Claude Desktop App or Cursor**  
+- **Claude Desktop App or Cursor for automatic setup**
 
 ---
 
@@ -39,7 +38,7 @@ The **AI Connector for Revit** connects AI Desktop Apps (like Claude or Cursor) 
    [AI Connector for Revit](https://nonica.io/#AIConnector)
 
 2. **Download and install.**  
-   Follow the instructions and read the Terms and Conditions, remember you are granting access to AI models to your Revit model. Install Claude Desktop App. It is free and enough for a few tests, but you may need Claude pro for frequent use.
+   Follow the instructions and read the Terms and Conditions, remember you are granting access to AI models to your Revit model. Install Claude Desktop App. It is free and enough for a few tests, but you may need Claude pro for frequent use and conversation length.
 
 3. **Run Revit.**  
    Start Revit (2025 or 2026), and select a toolbar that includes the AI Connector for Revit.
@@ -68,7 +67,7 @@ A selection of the available micro-tools is listed below. Use Search and Tools i
 
 lisiting01 and Jean Marc Couffin for the first Revit MCP.
 
-AI service providers for powering the backend chat interface
+AI service providers for powering the backend and chat interface.
 
 ---
 
