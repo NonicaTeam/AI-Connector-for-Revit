@@ -34,8 +34,8 @@ The **AI Connector for Revit** connects AI Desktop Apps (like Claude or Cursor) 
 
 ## Installation
 
-1. **Get the installer from here.**  
-   [AI Connector for Revit](https://nonica.io/#AIConnector)
+1. **Get the installer from Autodesk App Store.**  
+   [Download](https://apps.autodesk.com/RVT/en/Detail/Index?id=9212699819557407848&appLang=en&os=Win64)
 
 2. **Download and install.**  
    Follow the instructions and read the Terms and Conditions, remember you are granting access to AI models to your Revit model. Install Claude Desktop App. It is free and enough for a few tests, but you may need Claude pro for frequent use and conversation length.
