@@ -66,6 +66,8 @@ A selection of the available micro-tools is listed below. Use Search and Tools i
 
 lisiting01 and Jean Marc Couffin for the first Revit MCP.
 
+Anthropic for Model Context Protocol.
+
 AI service providers for powering the backend and chat interface.
 
 ---
