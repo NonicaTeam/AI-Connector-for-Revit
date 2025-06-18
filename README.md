@@ -34,19 +34,18 @@ The **AI Connector for Revit** connects AI Desktop Apps (like Claude or Cursor) 
 
 ## Installation
 
-1. **Get the installer from Autodesk App Store.**
-   [Download](https://apps.autodesk.com/RVT/en/Detail/Index?id=2476142006549788030&appLang=en&os=Win64)
+1. **Get the installer from [Autodesk App Store](https://apps.autodesk.com/RVT/en/Detail/Index?id=2476142006549788030&appLang=en&os=Win64).**
 
-3. **Download and install.**  
+2. **Download and install.**  
    Follow the instructions and read the Terms and Conditions, remember you are granting access to AI models to your Revit model. Install Claude Desktop App. It is free and enough for a few tests, but you may need Claude pro for frequent use and conversation length.
 
-4. **Run Revit.**  
+3. **Run Revit.**  
    Start Revit (2025 or 2026), and select a toolbar that includes the AI Connector for Revit.
    
-5. **Run the AI Connector for Revit.**  
+4. **Run the AI Connector for Revit.**  
    Go to Nonicatab toolbar in Revit and run the AI Connector. If Claude was opened, remember to restart Claude (close from corner next to Windows clock) after opening the AI Connector the first time.
 
-6. **Start asking.**  
+5. **Start asking.**  
    While the AI Connector for Revit is open and active, Claude will be able to access your Revit model using a set of tools.
 
 ---
