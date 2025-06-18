@@ -28,7 +28,7 @@ The **AI Connector for Revit** connects AI Desktop Apps (like Claude or Cursor) 
 
 - **Autodesk Revit** 2025 or 2026 
 - **Nonicatab** Revit plugin. 
-- **Claude Desktop App or Cursor for automatic setup**
+- **Claude Desktop App or Cursor for automatic setup** Also compatible with Copilot in VSCode and any other MCP compatible desktop app.
 
 ---
 
