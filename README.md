@@ -26,7 +26,7 @@ The **AI Connector for Revit** connects AI Desktop Apps (like Claude, Cursor or 
 
 ## Prerequisites
 
-- **Autodesk Revit** 2025 or 2026 
+- **Autodesk Revit** 2022 or 2026 
 - **Nonicatab** Revit plugin. 
 - **Claude Desktop App or Cursor for automatic setup** Also compatible with Copilot in VSCode and any other MCP compatible desktop app.
 
@@ -40,7 +40,7 @@ The **AI Connector for Revit** connects AI Desktop Apps (like Claude, Cursor or 
    Install Claude Desktop App (read the Terms and Conditions, remember you are granting access to AI models to your Revit model). It is free and enough for a few tests, but you may need Claude pro for frequent use and conversation length.
 
 3. **Run Revit.**  
-   Start Revit (2025 or 2026), and select a toolbar that includes the AI Connector for Revit.
+   Start Revit (2022 or 2026), and select a toolbar that includes the AI Connector for Revit.
    
 4. **Run the AI Connector for Revit.**  
    Go to Nonicatab toolbar in Revit and run the AI Connector. If Claude was opened, remember to restart Claude (close from corner next to Windows clock) after opening the AI Connector the first time.
