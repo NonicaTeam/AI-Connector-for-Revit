@@ -74,4 +74,4 @@ AI service providers for powering the backend and chat interface.
 
 ## License
 
-Copyright 2025 ©️ All rights reserved Nonica 
+Copyright 2026 ©️ All rights reserved Nonica 
