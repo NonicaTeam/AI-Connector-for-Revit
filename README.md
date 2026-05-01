@@ -1,13 +1,13 @@
 # AI Connector for Revit
 
-The **AI Connector for Revit** connects AI Desktop Apps (like Claude, Cursor or Copilot) with Revit. Rather than generating new Revit code, the AI uses a set of 36 predefined tools to inspect and select elements based on model feedback.
+The **AI Connector for Revit** connects AI Desktop Apps (like Claude, Cursor or Copilot) with Revit. Rather than generating new Revit code, the AI uses a set of +50 predefined tools to inspect and select elements based on model feedback.
 
 ---
 
 ## Features
 
 - **Predefined Tools**  
-  - Inspect parameters, family sizes, sheets and views, and more  
+  - Inspect and edit parameters, family sizes, sheets and views, names and more  
   - Examples:  
     - Get the value of a parameter  
     - Determine the file size of a family  
