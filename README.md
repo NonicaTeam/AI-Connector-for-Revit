@@ -16,8 +16,10 @@ The **AI Connector for Revit** connects AI Desktop Apps (like Claude, Cursor or 
 - **Feedback-Driven Interaction**  
   The AI invokes your tools and adapts to Revit’s responses, reducing errors from hand-crafted code.
 
-- **Read & Select Only (Phase 1)**  
-  Model reading, inspection, and element selection  
+- **Read, Edit and Document in Revit**  
+  Model reading, inspection, and element selection.
+  Edit parameters, elements and properties.
+  Add views to sheets, create sheets or sections.
 
 - **Integration with Nonicatab**  
   The “AI Connector” button appears in the Nonicatab toolbar after installation, and selecting the ready-to-use toolbar or tool.
@@ -57,7 +59,7 @@ A selection of the available micro-tools is listed below. Use Search and Tools i
 | Tool                                                    | Description                                           |
 |---------------------------------------------------------|-------------------------------------------------------|
 | `get_parameters_from_elementid(list_elementId, name)`   | Returns all parameters for the specified element id.  |
-| `get_size_in_MB_of_families(familyName)`            | Returns the family file sizes in megabytes.           |
+| `get_size_in_MB_of_families(familyName)`                | Returns the family file sizes in megabytes.           |
 | `get_viewports_placed_on_sheets(sheetNumber)`           | Lists all views placed on a list of sheets.           |
 
 ---
