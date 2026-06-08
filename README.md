@@ -17,9 +17,9 @@ The **AI Connector for Revit** connects AI Desktop Apps (like Claude, Cursor or 
   The AI invokes your tools and adapts to Revit’s responses, reducing errors from hand-crafted code.
 
 - **Read, Edit and Document in Revit**  
-  Model reading, inspection, and element selection.
-  Edit parameters, elements and properties.
-  Add views to sheets, create sheets or sections.
+  Model reading, inspection, and element selection.  
+  Edit parameters, elements and properties.  
+  Add views to sheets, create sheets or sections.  
 
 - **Integration with Nonicatab**  
   The “AI Connector” button appears in the Nonicatab toolbar after installation, and selecting the ready-to-use toolbar or tool.
