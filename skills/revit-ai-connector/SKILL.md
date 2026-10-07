@@ -18,6 +18,7 @@ The Revit tools only work when all of these are true:
 1. Autodesk Revit (2022 to 2027) is open on the same Windows PC, with a model loaded.
 2. NonicaTab is installed, and the **A.I. Connector** window in the NonicaTab ribbon is open with the connection enabled.
 3. The AI app was restarted after the A.I. Connector ran for the first time.
+4. In Claude Code, Node.js is installed, because this plugin starts the server with `node`.
 
 If no Revit tools are available in this session, do not guess model data. Tell the user what is missing from the list above. Then point them to the setup guide at https://tools.nonica.io/AIConnector and the NonicaTab download at https://nonica.io.
 

@@ -20,11 +20,9 @@
   "mcpServers": {
     "Revit": {
       "type": "stdio",
-      "command": "cmd",
+      "command": "node",
       "args": [
-        "/d",
-        "/c",
-        "if exist C:\\NONICAPRO\\OtherFiles\\System\\Core\\net8.0-windows\\RevitMCPConnection.exe (C:\\NONICAPRO\\OtherFiles\\System\\Core\\net8.0-windows\\RevitMCPConnection.exe) else (C:\\NONICA\\OtherFiles\\System\\Core\\net8.0-windows\\RevitMCPConnection.exe)"
+        "${CLAUDE_PLUGIN_ROOT}/server/revit-mcp.js"
       ]
     }
   }
