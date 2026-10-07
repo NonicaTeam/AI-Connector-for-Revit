@@ -16,5 +16,16 @@
     "mcp",
     "nonicatab",
     "ai-connector"
-  ]
+  ],
+  "mcpServers": {
+    "Revit": {
+      "type": "stdio",
+      "command": "cmd",
+      "args": [
+        "/d",
+        "/c",
+        "if exist C:\\NONICAPRO\\OtherFiles\\System\\Core\\net8.0-windows\\RevitMCPConnection.exe (C:\\NONICAPRO\\OtherFiles\\System\\Core\\net8.0-windows\\RevitMCPConnection.exe) else (C:\\NONICA\\OtherFiles\\System\\Core\\net8.0-windows\\RevitMCPConnection.exe)"
+      ]
+    }
+  }
 }
