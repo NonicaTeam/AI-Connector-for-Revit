@@ -1,0 +1,20 @@
+{
+  "name": "ai-connector-for-revit",
+  "version": "0.1.0",
+  "description": "Connects AI desktop apps (Claude, Cursor, Copilot) to Autodesk Revit through NonicaTab. Uses 50+ predefined tools to inspect, select, edit and document elements in Revit models, such as reading parameters, checking family sizes and listing views placed on sheets.",
+  "author": {
+    "name": "Nonica",
+    "url": "https://nonica.io/"
+  },
+  "homepage": "https://github.com/NonicaTeam/AI-Connector-for-Revit",
+  "repository": "https://github.com/NonicaTeam/AI-Connector-for-Revit",
+  "keywords": [
+    "revit",
+    "autodesk",
+    "bim",
+    "aec",
+    "mcp",
+    "nonicatab",
+    "ai-connector"
+  ]
+}
