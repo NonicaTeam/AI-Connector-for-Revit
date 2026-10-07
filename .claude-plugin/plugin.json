@@ -8,6 +8,9 @@
   },
   "homepage": "https://github.com/NonicaTeam/AI-Connector-for-Revit",
   "repository": "https://github.com/NonicaTeam/AI-Connector-for-Revit",
+  "documentationUrl": "https://tools.nonica.io/AIConnector",
+  "supportUrl": "https://nonica.io",
+  "privacyPolicyUrl": "https://nonica.io/publishers-privacy-policy-pro/",
   "keywords": [
     "revit",
     "autodesk",
