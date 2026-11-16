@@ -1,6 +1,6 @@
 # AI Connector for Revit
 
-The **AI Connector for Revit** connects AI Desktop Apps (like Claude, Cursor or Copilot) with Revit. Rather than generating new Revit code, the AI uses a set of +50 predefined tools to inspect, select, edit and document elements in Revit models.
+The **AI Connector for Revit** connects AI Desktop Apps (like Claude, Gemini CLI, Cursor or Copilot) with Revit. Rather than generating new Revit code, the AI uses a set of +50 predefined tools to inspect, select, edit and document elements in Revit models.
 
 ---
 
@@ -30,7 +30,7 @@ The **AI Connector for Revit** connects AI Desktop Apps (like Claude, Cursor or 
 
 - **Autodesk Revit** from 2022 to 2027 
 - **[NonicaTab](https://nonica.io/)** Revit plugin. 
-- **Claude Desktop App or Cursor for automatic setup** Also compatible with Copilot in VSCode and any other MCP compatible desktop app.
+- **Claude Desktop App or Cursor for automatic setup** Also compatible with Gemini CLI, Copilot in VSCode and any other MCP compatible desktop app.
 
 ---
 
@@ -49,6 +49,25 @@ The **AI Connector for Revit** connects AI Desktop Apps (like Claude, Cursor or 
 
 5. **Start asking.**  
    While the AI Connector for Revit is open and active, Claude will be able to access your Revit model using a set of tools.
+
+---
+
+## Gemini CLI
+
+The AI Connector for Revit is also available as a Gemini CLI extension.
+
+**Prerequisites:** Autodesk Revit from 2022 to 2027, **[NonicaTab](https://nonica.io/)** FREE or PRO, and **Node.js**.
+
+1. **Install the extension.**  
+   `gemini extensions install https://github.com/NonicaTeam/AI-Connector-for-Revit`
+
+2. **Run the AI Connector for Revit.**  
+   Open Revit and click AI Connector in the Nonicatab toolbar.
+
+3. **Start Gemini CLI.**  
+   Run `gemini` and check that the `Revit` server shows up in `/mcp`.
+
+Antigravity CLI users can bring it over with `agy plugin import gemini`.
 
 ---
 

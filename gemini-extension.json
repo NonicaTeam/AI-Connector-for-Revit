@@ -1,0 +1,12 @@
+{
+  "name": "ai-connector-for-revit",
+  "version": "0.1.0",
+  "description": "AI Connector for Revit by Nonica (https://nonica.io): 50+ tools to inspect, select, edit and document elements in live Autodesk Revit models through NonicaTab (parameters, families, views, sheets, worksets and more).",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "Revit": {
+      "command": "node",
+      "args": ["${extensionPath}${/}server${/}revit-mcp.js"]
+    }
+  }
+}
