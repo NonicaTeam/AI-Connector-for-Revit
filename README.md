@@ -62,8 +62,6 @@ A selection of the available micro-tools is listed below. Use Search and Tools i
 | `get_size_in_MB_of_families(familyName)`                | Returns the family file sizes in megabytes.           |
 | `get_viewports_placed_on_sheets(sheetNumber)`           | Lists all views placed on a list of sheets.           |
 
-For 5% discount on NonicaTab Pro, use official coupon code GIT-1LY9 or visit [this link.](https://buy.stripe.com/3cscNl1Hb2iY2SQ3cc?prefilled_promo_code=GIT-1LY9)
-
 ---
 
 ## Acknowledgements
